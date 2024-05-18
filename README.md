@@ -17,7 +17,7 @@ I am a dedicated and outcome-driven Data Scientist with a strong aptitude for th
 - Capable in front-end development (HTML, CSS), back-end development (Flask, Django), and RESTful API development.
 
 **Data Manipulation & Analysis:**
-- Proficient with Pandas, NumPy, Scikit-Learn, Matplotlib/Seaborn, and Jupyter Notebooks.
+- Proficient with Pandas, NumPy, Scikit-Learn, Matplotlib/Seaborn,Geoplotlib,yellowbrick and Jupyter Notebooks,Google Colab.
 
 **Database Management:**
 - Well-versed in MySQL, PostgreSQL, MongoDB, and SQLite.
