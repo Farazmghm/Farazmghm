@@ -1,6 +1,7 @@
 #### About Me
 
-I am a dedicated and outcome-driven Data Scientist with a strong aptitude for thriving in complex digital intelligence processing settings. Equipped with a robust proficiency in Python, web development, SQL, and machine learning, I am adept at incorporating the latest technological advancements and industry best practices into my work. My capabilities enable me to create and execute inventive solutions that convert intricate data into actionable insights, empowering strategic decision-making and fostering business expansion.
+Graduating from Genoa University with a Master of Technology and Security equipped me with a diverse skill set encompassing technology systems and cybersecurity measures, enriching my approach to problem-solving in fields beyond strategy and encompassing areas such as machine learning,deep learning,decision-making variety problem and broader technology applications.
+I am dedicated and outcome-driven Data Scientist with a strong aptitude for thriving in complex digital intelligence processing settings. Equipped with a robust proficiency in Python, web development, SQL, and machine learning, I am adept at incorporating the latest technological advancements and industry best practices into my work. My capabilities enable me to create and execute inventive solutions that convert intricate data into actionable insights, empowering strategic decision-making and fostering business expansion.
 
 #### Expertise
 
